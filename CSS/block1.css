@@ -1,0 +1,57 @@
+.a{
+    width:600px;
+    height:400px;
+    background-color:black;
+}
+.b{
+    width:600px;
+    height:80px;
+    background-color:gray;
+} 
+.r1{
+    width:100px;
+    height:80px;
+    background-color:burlywood;
+    float:left;
+}
+.e{
+    width:400px;
+    height:80px;
+    background-color:orange;
+    float:left;
+}
+.f{
+        width:100px;
+        height:80px;
+        background-color:rgb(25, 108, 90);
+        float:right;
+    }
+  .g{
+    width:100px;
+    height:40px;
+    background-color:rebeccapurple;
+    float:right;
+  }  
+  .h{
+    width:100px;
+    height:40px;
+    background-color:thistle;
+    float:right;
+  }
+  .p1{
+    width:50px;
+    height:40px;
+    background-color:olivedrab;
+    float:left;
+  }
+ .q1{
+    width:50px;
+    height:40px;
+    background-color:chartreuse;
+    float:right;
+  }
+  .c{
+    width:600px;
+    height:320px;
+    background-color:orchid;
+  }

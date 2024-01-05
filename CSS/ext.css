@@ -1,0 +1,155 @@
+.a{
+    width:1300px;
+    height:30px;
+    background-color: aqua;
+}
+.b{
+    background-color:lawngreen;
+    color:white;
+}
+.c{
+    background-color: skyblue;
+    color:white;
+}
+.d{
+    background-color: skyblue;
+    color:white;
+}
+.e{
+    background-color: skyblue;
+    color:white;
+}
+select{
+    background-color: red;
+    color:white;
+}
+.g{
+    width:300px;
+    height:500px;
+    border:1px solid white;
+    padding:30px;
+    float:left;
+    background-color: white;
+}
+.h{
+    float:right;
+    color:rgb(113, 109, 109);
+
+}
+.f{
+    background-color: rgb(84, 114, 247);
+    color:white;
+}
+.i{
+    width:1380px;
+    height:600px;
+    border:1px solid white;
+    padding-left: 20px;
+    background-color: rgb(246, 248, 249);
+}
+.d2{
+    width:750px;
+    height:240px;
+    border:1px solid white;
+    margin-left: 30px;
+    float:left;
+    background-color: white;
+}
+.k{
+    color:rgb(113, 109, 109);
+    margin-left: 60px;
+}
+.l{
+    background-color:rgb(84, 114, 247);
+    margin-left: 150px;
+    color:white;
+}
+.d4{
+    width:1380px;
+    height:600px;
+    border:1px solid white;
+    padding-left: 20px;
+    background-color: rgb(246, 248, 249);
+}
+.d3{
+    width:750px;
+    height: 330px;
+    border: 1px solid white;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: white;
+}
+.p{
+    width:700px;
+    height:5px;
+    background-color:grey;
+    border-radius: 20px;
+}
+.a1{
+    width:500px;
+    height:5px;
+    background-color: blue;
+    border-radius: 20px;
+}
+.p1{
+    width:500px;
+    height:5px;
+    background-color:grey;
+    border-radius: 20px;
+}
+.a2{
+    width:400px;
+    height:5px;
+    background-color:red;
+    border-radius: 20px;
+}
+.p2{
+    width:500px;
+    height:5px;
+    background-color:grey;
+    border-radius: 20px;
+}
+.a3{
+    width:450px;
+    height:5px;
+    background-color: green;
+    border-radius:20px;
+}
+.p3{
+    width:600px;
+    height:5px;
+    background-color:grey;
+    border-radius: 20px;
+}
+.a4{
+    width:200px;
+    height:5px;
+    background-color:yellow;
+    border-radius: 20px;
+}
+.p4{
+    width:400px;
+    height:5px;
+    background-color:grey;
+    border-radius: 20px;
+}
+.a5{
+    width:250px;
+    height:5px;
+    background-color:skyblue;
+    border-radius: 20px;
+}
+.image{
+        height:100px;
+        width:100px;
+        background-color: white;
+        border-radius: 50px ;
+        border:3px solid rgb(15, 15, 221);
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+.q1{
+    background-color:rgb(84, 114, 247);
+    color:white;
+}

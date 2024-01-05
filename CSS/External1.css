@@ -1,0 +1,48 @@
+.external{
+    font-size:20px;
+    background-color:skyblue;
+    color:black;
+}
+#main{
+    font-size:20px;
+    background-color:red;
+    color:blue;
+    width:160px;
+    height:100px;
+}
+span{
+    font-size:20px;
+    background-color:orange;
+    color:palegreen;
+}
+*{
+    font-family:'Courier New', Courier, monospace;
+    margin:0px;
+    padding:0px;
+}
+input[type="text"]{
+    color:aqua;
+}
+input[type="number"]{
+    color:blue;
+}
+input[type="password"]{
+    color:aquamarine;
+}
+/* a[href=""]{
+    background-color:purple;
+    color:azure;
+} */
+a:hover{
+    font-size:40px;
+    color:brown;
+}
+a:active{
+    color:aqua;
+}
+a:visited{
+    color:blueviolet;
+}
+a:link{
+    color:red;
+}

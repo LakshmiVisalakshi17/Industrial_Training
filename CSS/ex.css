@@ -1,0 +1,21 @@
+div{
+    border:1px solid black;
+    width:300px;
+    height:300px;
+}
+.a{
+    background-color:black;
+}
+.b{
+    background-color:white;
+}
+.c{
+    width:15px;
+    height:15px;
+    background-color: black;
+}
+.d{
+    width:15px;
+    height:15px;
+    background-color:white;
+}

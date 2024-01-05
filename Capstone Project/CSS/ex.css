@@ -1,0 +1,144 @@
+.a{
+    width:1205px;
+    height:800px;
+    border:1px solid rgb(251, 242, 242);
+    background-color: rgb(251, 242, 242);
+}
+h1{
+    text-align: center;
+}
+.a1{
+    width:1205px;
+    height:600px;
+    border:1px solid rgb(251, 242, 242);
+}
+.a2{
+    width:300px;
+    height:190px;
+    border:1px solid white;
+    position: absolute;
+    left:90px;
+    top:170px;
+    
+    
+}
+.a21{
+    width:300px;
+    height:20px;
+    border:1px solid white;
+    background-color: rgb(238, 96, 207);
+   
+}
+.a22{
+    width:300px;
+    height:180px;
+    border:1px solid white;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+   
+}
+.a3{
+    width:300px;
+    height:190px;
+    border:1px solid white;
+    position: absolute;
+    left:440px;
+    top:170px;
+    box-shadow: 80px white;
+   
+}
+.a31{
+    width:300px;
+    height:20px;
+    border:1px solid white;
+    background-color: aqua;
+}
+.a4{
+    width:300px;
+    height:190px;
+    border:1px solid white;
+    position: absolute;
+    left:790px;
+    top:170px;
+    box-shadow: 80px white;
+    
+}
+.a41{
+    width:300px;
+    height:20px;
+    border:1px solid white;
+    background-color: lawngreen;
+}
+.a5{
+    width:300px;
+    height:190px;
+    border:1px solid white;
+    position: absolute;
+    left:90px;
+    top:430px;
+    box-shadow: 80px white;
+    
+}
+.a51{
+    width:300px;
+    height:20px;
+    border:1px solid white;
+    background-color: yellow;
+}
+.a6{
+    width:300px;
+    height:190px;
+    border:1px solid white;
+    position: absolute;
+    left:440px;
+    top:430px;
+    box-shadow: 80px white;
+    
+}
+.a61{
+    width:300px;
+    height:20px;
+    border:1px solid white;
+    background-color: rgb(159, 134, 219);
+}
+.a7{
+    width:300px;
+    height:190px;
+    border:1px solid white;
+    position: absolute;
+    left:790px;
+    top:430px;
+    box-shadow: 80px white;
+    
+}
+.a71{
+    width:300px;
+    height:20px;
+    border:1px solid white;
+    background-color: rgb(237, 124, 180);
+}
+h{
+    color:rgb(74, 69, 69);
+    top:100px;
+    position: absolute;
+    left:15px;
+}
+p{
+    position: absolute;
+    color:rgb(99, 94, 94);
+    top:110px;
+    left:15px;
+}
+button{
+    position: absolute;
+    left:500px;
+    background-color: orchid;
+    border-color: orchid;
+    width:150px;
+    height:50px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
