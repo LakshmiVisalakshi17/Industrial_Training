@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Transition</title>
+        <style>
+        #a{
+            width:200px;
+            height:200px;
+            border:1px solid black;
+            background-color: black;
+            /* transition: width 2s; 
+            transition-property: background-color;
+            transition-duration: 3sec;
+            transition-delay: 2s;
+            transition-timing-function: linear; */
+            transition: all 1s linear 2s;
+
+        }
+        #a:hover{
+            width:100px;
+            background-color:rgb(122, 217, 254);
+            margin-top: 20px;
+            border-color:rgb(122, 217, 254);
+            border-radius: 500px;
+        }
+    </style>
+    </head>
+    <body>
+        <div id="a"></div>
+    </body>
+</html>
