@@ -1,0 +1,22 @@
+.container-fluid{
+    height:800px;
+    
+}
+p{
+    color:rgb(137, 120, 120);
+}
+a{
+    color:rgb(137, 120, 120);
+}
+.form-outline i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  i{
+  position: absolute;
+  top: 90px;
+  transform: translateY(-50%);
+  pointer-events: none;
+  }
