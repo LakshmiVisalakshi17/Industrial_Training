@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object in Javascript</title>
+</head>
+<body>
+    <script>
+        let a={
+            name:'visalakshi',
+            Pin:17,
+            Branch:'CCN'
+        }
+        console.log(a)
+        console.log(typeof(a))
+        console.log(a.name)//dot notation
+        console.log(a['Pin'])//array notation
+        a.Pin=113
+        console.log(a.Pin)
+        a.age=17
+        console.log(a)
+        delete a.age
+        console.log(a)
+        console.log('age' in a)
+        console.log('Branch' in a)
+    </script>
+</body>
+</html>
