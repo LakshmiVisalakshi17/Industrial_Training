@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date functions</title>
+</head>
+<body>
+    <script>
+        const a=new Date();
+        document.write(a+"<br>");
+        document.write("The current date is :"+a.getDate()+"<br>")
+        document.write("The current month is :"+(a.getMonth()+1)+"<br>")
+        document.write("The current year is :"+a.getFullYear()+"<br>")
+        document.write("The current day is :"+a.getDay()+"<br>")
+        document.write("The current hour is :"+a.getHours()+"<br>")
+        document.write("The current second is :"+a.getSeconds()+"<br>")
+        document.write("The current Minute is :"+a.getMinutes()+"<br>")
+        const weeks=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+        let day=weeks[a.getDay()]
+        document.write("The current day is :"+day+"<br>")
+        const month=["January","February","March","April","May","june","july","August","September","October","November","December"]
+        let mon=month[a.getMonth()]
+        document.write("The current Month is :" +mon)
+    </script>
+</body>
+</html>
